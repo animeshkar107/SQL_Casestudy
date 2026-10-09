@@ -9,8 +9,11 @@ The main objective is to understand customer value, identify popular music genre
 ## 📊 Dataset Used
 
 **Dataset:** Chinook Database
+
 **Source:** https://github.com/lerocha/chinook-database 
+
 **Version:** 1.4.5
+
 **Script:** Chinook_MySql.sql
 
 The Chinook database contains information about a digital music store, including customers, invoices, invoice line items, tracks, albums, artists, and genres.
